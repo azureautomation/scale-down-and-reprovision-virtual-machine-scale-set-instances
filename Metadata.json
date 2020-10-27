@@ -1,0 +1,20 @@
+{
+    "Author": "Kay Singh",
+    "ContentSize": 10307,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/scale-down-and-reprovision-virtual-machine-scale-set-instances/master/scaleDown_Reprovision.ps1",
+    "DownloadCount": 1048,
+    "Id": "Scale-Down-and-Reprovision-4f38a457",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 415,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-4-14T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This Azure Automation runbook will scale down and reprovision Virtual Machine Scale Set instances. This is intended to run only in Azure Automation service. An Azure Automation account with the \"Run as\" feature is required.",
+    "Title": "Scale Down and Reprovision Virtual Machine Scale Set Instances",
+    "UpdatedDate": "2019-4-9T00:00:00",
+    "Url": "https://github.com/azureautomation/scale-down-and-reprovision-virtual-machine-scale-set-instances",
+    "UserTags": ""
+}
